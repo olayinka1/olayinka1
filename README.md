@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olaoluwa Adeoye Olayinka
-- 👀 I’m interested in Multi Agent System, Formal verification and software development
+- 👀 I’m interested in Multi Agent System, Formal verification, process development and software development
 - 🌱 I’m currently learning Tamarin theorem prover and advanced phyton
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Coloured Petri Nets modelling, E-democracy, secured election systems
 - 📫 How to reach me : yinkani@gmail.com
 
 <!---
